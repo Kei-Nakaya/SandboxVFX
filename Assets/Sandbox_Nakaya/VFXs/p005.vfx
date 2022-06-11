@@ -6,7 +6,7 @@ VisualEffectResource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: p05
+  m_Name: p005
   m_Graph: {fileID: 2}
   m_Infos:
     m_RendererSettings:
@@ -30,7 +30,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d4c867f6b72b714dbb5fd1780afe208, type: 3}
-  m_Name: p05
+  m_Name: p005
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 0}
@@ -102,7 +102,7 @@ MonoBehaviour:
     x: 8331
     y: -1077
     width: 5157
-    height: 3120
+    height: 3121
 --- !u!114 &1806
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4590,7 +4590,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"35e99ea63dd57494d9af6eac61d8af2d","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"60c9063a20dc81b4b94b40ec6b91a8c7","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mainTexture
@@ -7114,7 +7114,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"35e99ea63dd57494d9af6eac61d8af2d","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"60c9063a20dc81b4b94b40ec6b91a8c7","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mainTexture
@@ -13335,7 +13335,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"82eeb7a139e6e524eb74673eedc09ab6","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"2d6479b1a36e4db458f5a5e431c3aa95","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mainTexture
