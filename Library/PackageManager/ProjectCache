@@ -1,113 +1,113 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/manifest.json
+    m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/manifest.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637910289073976662
+      ticks: 637912227061015356
     m_Hash: 786460542
   m_LockFileStatus:
-    m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/packages-lock.json
+    m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637910289073986656
-    m_Hash: 2418233104
+      ticks: 637912259285571902
+    m_Hash: 2361866260
 m_EmbeddedPackageManifests:
   m_ManifestsStatus:
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio.shadergraph/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio.shadergraph/package.json
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio/package.json"
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 637910289073566665
-      m_Hash: 3076375808
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/unity-visualeffectgraph-builtin/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/unity-visualeffectgraph-builtin/package.json
-      m_PathExists: 1
-      m_ContentTrackingEnabled: 1
-      m_ModificationDate:
-        serializedVersion: 2
-        ticks: 637910289081576818
-      m_Hash: 1699141444
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.live/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.live/package.json
-      m_PathExists: 1
-      m_ContentTrackingEnabled: 1
-      m_ModificationDate:
-        serializedVersion: 2
-        ticks: 637910289073236650
-      m_Hash: 2586775466
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio/package.json
-      m_PathExists: 1
-      m_ContentTrackingEnabled: 1
-      m_ModificationDate:
-        serializedVersion: 2
-        ticks: 637910289073976662
+        ticks: 637912227116872111
       m_Hash: 3943290421
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.core.vfx/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.core.vfx/package.json
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/unity-visualeffectgraph-builtin/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/unity-visualeffectgraph-builtin/package.json"
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 637910289072606697
-      m_Hash: 2257139433
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.core/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.core/package.json
+        ticks: 637912227127875387
+      m_Hash: 1699141444
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.core/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.core/package.json"
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 637910289073176649
+        ticks: 637912227075636218
       m_Hash: 4159895593
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.avpro/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.avpro/package.json
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio.shadergraph/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio.shadergraph/package.json"
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 637910289072246651
+        ticks: 637912227107284401
+      m_Hash: 3076375808
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.avpro/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.avpro/package.json"
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637912227061902950
       m_Hash: 2279637604
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.core.shadergraph/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.core.shadergraph/package.json
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio.lite/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio.lite/package.json"
       m_PathExists: 1
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 637910289072406652
-      m_Hash: 2253393648
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio.vfx/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio.vfx/package.json
-      m_PathExists: 1
-      m_ContentTrackingEnabled: 1
-      m_ModificationDate:
-        serializedVersion: 2
-        ticks: 637910289073686666
-      m_Hash: 1312337058
-    C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio.lite/package.json:
-      m_FilePath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages/depthkit.studio.lite/package.json
-      m_PathExists: 1
-      m_ContentTrackingEnabled: 1
-      m_ModificationDate:
-        serializedVersion: 2
-        ticks: 637910289073416650
+        ticks: 637912227099435646
       m_Hash: 3839541141
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.core.shadergraph/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.core.shadergraph/package.json"
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637912227063984953
+      m_Hash: 2253393648
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.core.vfx/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.core.vfx/package.json"
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637912227069866778
+      m_Hash: 2257139433
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.live/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.live/package.json"
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637912227097386303
+      m_Hash: 2586775466
+    "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio.vfx/package.json":
+      m_FilePath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages/depthkit.studio.vfx/package.json"
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 637912227112625365
+      m_Hash: 1312337058
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/kyoichi kagiyama/Documents/depthkit-builtin-rp-vfx-template2/Packages
-m_EditorVersion: 2021.3.4f1 (cb45f9cae8b7)
+m_ProjectPath: "C:/Users/keinm/OneDrive/\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8/GitHub/SandboxVFX/Packages"
+m_EditorVersion: 2021.3.3f1 (af2e63e8f9bd)
 m_ResolvedPackages:
 - packageId: com.unity.ads@3.7.5
   testable: 0
   isDirectDependency: 1
   version: 3.7.5
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.ads@3.7.5
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.ads@3.7.5"
   assetPath: Packages/com.unity.ads
   name: com.unity.ads
   displayName: Advertisement
@@ -213,7 +213,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.6.12
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.analytics@3.6.12
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.analytics@3.6.12"
   assetPath: Packages/com.unity.analytics
   name: com.unity.analytics
   displayName: Analytics Library
@@ -310,7 +310,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.15.17
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.collab-proxy@1.15.17
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.collab-proxy@1.15.17"
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -386,6 +386,7 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
+    - 1.15.16
     - 1.15.17
     - 1.15.18
     - 2.0.0-preview.6
@@ -404,7 +405,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.4.0
+    version: 1.3.1
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -443,14 +444,14 @@ m_ResolvedPackages:
     revision: fd95d00c5a7961beec85ee190181439d53fb0dba
     path: 
   unityLifecycle:
-    version: 1.15.17
+    version: 1.15.16
     nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.feature.development@1.0.1
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.feature.development@1.0.1"
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -536,7 +537,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.14
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.ide.rider@3.0.14
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.ide.rider@3.0.14"
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -618,7 +619,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.15
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.ide.visualstudio@2.0.15
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.15"
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -694,7 +695,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.ide.vscode@1.2.5
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.ide.vscode@1.2.5"
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -755,7 +756,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.2.2
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.postprocessing@3.2.2
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.postprocessing@3.2.2"
   assetPath: Packages/com.unity.postprocessing
   name: com.unity.postprocessing
   displayName: Post Processing
@@ -843,7 +844,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.1.4
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.purchasing@4.1.4
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.purchasing@4.1.4"
   assetPath: Packages/com.unity.purchasing
   name: com.unity.purchasing
   displayName: In App Purchasing
@@ -957,7 +958,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.androidjni
     version: 1.0.0
   - name: com.unity.services.core
-    version: 1.4.0
+    version: 1.3.1
   - name: com.unity.nuget.newtonsoft-json
     version: 3.0.2
   keywords:
@@ -989,7 +990,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.31
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.test-framework@1.1.31
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.test-framework@1.1.31"
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1088,7 +1089,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.textmeshpro@3.0.6"
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1253,7 +1254,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.4
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.timeline@1.6.4
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.timeline@1.6.4"
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1397,7 +1398,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.ugui@1.0.0"
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1459,7 +1460,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.8
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.visualscripting@1.7.8
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.visualscripting@1.7.8"
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1502,6 +1503,8 @@ m_ResolvedPackages:
     - 1.7.8
     - 1.8.0-pre.1
     compatible:
+    - 1.7.6
+    - 1.7.7
     - 1.7.8
     verified: 1.7.8
   dependencies:
@@ -1537,14 +1540,14 @@ m_ResolvedPackages:
     revision: 775a560e6602f51ff05aca02264f8bed4d415fd3
     path: 
   unityLifecycle:
-    version: 1.7.8
+    version: 1.7.6
     nextVersion: 
 - packageId: jp.keijiro.klak.spout@2.0.3
   testable: 0
   isDirectDependency: 1
   version: 2.0.3
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\jp.keijiro.klak.spout@2.0.3
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\jp.keijiro.klak.spout@2.0.3"
   assetPath: Packages/jp.keijiro.klak.spout
   name: jp.keijiro.klak.spout
   displayName: KlakSpout
@@ -1609,7 +1612,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.ai@1.0.0"
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1657,7 +1660,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.androidjni@1.0.0"
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1704,7 +1707,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.animation@1.0.0"
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1752,7 +1755,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.assetbundle@1.0.0"
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1800,7 +1803,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.audio@1.0.0"
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1848,7 +1851,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.cloth@1.0.0"
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1900,7 +1903,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.director@1.0.0"
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1956,7 +1959,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.imageconversion@1.0.0"
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2005,7 +2008,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.imgui@1.0.0"
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2053,7 +2056,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.jsonserialize@1.0.0"
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2101,7 +2104,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.particlesystem@1.0.0"
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2149,7 +2152,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.physics@1.0.0"
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2197,7 +2200,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.physics2d@1.0.0"
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2245,7 +2248,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.screencapture@1.0.0"
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2297,7 +2300,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.terrain@1.0.0"
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2345,7 +2348,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.terrainphysics@1.0.0"
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2401,7 +2404,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.tilemap@1.0.0"
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2452,7 +2455,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.ui@1.0.0"
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2500,7 +2503,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.uielements@1.0.0"
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2564,7 +2567,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.umbra@1.0.0"
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2612,7 +2615,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.unityanalytics@1.0.0"
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2668,7 +2671,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.unitywebrequest@1.0.0"
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2716,7 +2719,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle@1.0.0"
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2772,7 +2775,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio@1.0.0"
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2828,7 +2831,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture@1.0.0"
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2884,7 +2887,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww@1.0.0"
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2956,7 +2959,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.vehicles@1.0.0"
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3008,7 +3011,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.video@1.0.0"
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3068,7 +3071,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.vr@1.0.0"
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3130,7 +3133,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.wind@1.0.0"
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3178,7 +3181,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.xr@1.0.0"
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3233,12 +3236,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
-- packageId: nyc.scatter.depthkit.avpro@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.avpro
+- packageId: "nyc.scatter.depthkit.avpro@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.avpro"
   testable: 1
   isDirectDependency: 1
   version: 0.1.2
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.avpro
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.avpro"
   assetPath: Packages/nyc.scatter.depthkit.avpro
   name: nyc.scatter.depthkit.avpro
   displayName: Depthkit AVPro Video Player
@@ -3291,12 +3294,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.core@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.core
+- packageId: "nyc.scatter.depthkit.core@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.core"
   testable: 1
   isDirectDependency: 1
   version: 0.12.2
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.core
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.core"
   assetPath: Packages/nyc.scatter.depthkit.core
   name: nyc.scatter.depthkit.core
   displayName: Depthkit Core
@@ -3342,12 +3345,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.core.shadergraph@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.core.shadergraph
+- packageId: "nyc.scatter.depthkit.core.shadergraph@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.core.shadergraph"
   testable: 1
   isDirectDependency: 1
   version: 0.5.1
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.core.shadergraph
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.core.shadergraph"
   assetPath: Packages/nyc.scatter.depthkit.core.shadergraph
   name: nyc.scatter.depthkit.core.shadergraph
   displayName: Depthkit Core Shader Graph
@@ -3378,9 +3381,9 @@ m_ResolvedPackages:
   - name: nyc.scatter.depthkit.core
     version: 0.12.2
   - name: com.unity.shadergraph
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.render-pipelines.core
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -3417,12 +3420,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.core.vfx@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.core.vfx
+- packageId: "nyc.scatter.depthkit.core.vfx@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.core.vfx"
   testable: 1
   isDirectDependency: 1
   version: 0.5.1
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.core.vfx
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.core.vfx"
   assetPath: Packages/nyc.scatter.depthkit.core.vfx
   name: nyc.scatter.depthkit.core.vfx
   displayName: Depthkit Core Visual Effect Graph
@@ -3475,12 +3478,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.live@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.live
+- packageId: "nyc.scatter.depthkit.live@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.live"
   testable: 1
   isDirectDependency: 1
   version: 0.2.2
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.live
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.live"
   assetPath: Packages/nyc.scatter.depthkit.live
   name: nyc.scatter.depthkit.live
   displayName: Depthkit Spout Livestream Player
@@ -3538,12 +3541,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.studio@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio
+- packageId: "nyc.scatter.depthkit.studio@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio"
   testable: 1
   isDirectDependency: 1
   version: 0.8.3
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio"
   assetPath: Packages/nyc.scatter.depthkit.studio
   name: nyc.scatter.depthkit.studio
   displayName: Depthkit Studio
@@ -3594,12 +3597,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.studio.lite@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio.lite
+- packageId: "nyc.scatter.depthkit.studio.lite@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio.lite"
   testable: 1
   isDirectDependency: 1
   version: 0.1.0
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio.lite
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio.lite"
   assetPath: Packages/nyc.scatter.depthkit.studio.lite
   name: nyc.scatter.depthkit.studio.lite
   displayName: Depthkit Studio Lite
@@ -3654,12 +3657,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.studio.shadergraph@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio.shadergraph
+- packageId: "nyc.scatter.depthkit.studio.shadergraph@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio.shadergraph"
   testable: 1
   isDirectDependency: 1
   version: 0.4.2
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio.shadergraph
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio.shadergraph"
   assetPath: Packages/nyc.scatter.depthkit.studio.shadergraph
   name: nyc.scatter.depthkit.studio.shadergraph
   displayName: Depthkit Studio Shader Graph
@@ -3699,9 +3702,9 @@ m_ResolvedPackages:
   - name: nyc.scatter.depthkit.core.shadergraph
     version: 0.5.1
   - name: com.unity.shadergraph
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.render-pipelines.core
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -3738,12 +3741,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: nyc.scatter.depthkit.studio.vfx@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio.vfx
+- packageId: "nyc.scatter.depthkit.studio.vfx@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio.vfx"
   testable: 1
   isDirectDependency: 1
   version: 0.4.2
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\depthkit.studio.vfx
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\depthkit.studio.vfx"
   assetPath: Packages/nyc.scatter.depthkit.studio.vfx
   name: nyc.scatter.depthkit.studio.vfx
   displayName: Depthkit Studio Visual Effect Graph
@@ -3805,12 +3808,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.visualeffectgraph@file:C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\unity-visualeffectgraph-builtin
+- packageId: "com.unity.visualeffectgraph@file:C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\unity-visualeffectgraph-builtin"
   testable: 1
   isDirectDependency: 1
   version: 11.0.0-backport
   source: 3
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Packages\unity-visualeffectgraph-builtin
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Packages\\unity-visualeffectgraph-builtin"
   assetPath: Packages/com.unity.visualeffectgraph
   name: com.unity.visualeffectgraph
   displayName: Visual Effect Graph
@@ -3893,10 +3896,10 @@ m_ResolvedPackages:
     - 10.8.0
     - 10.8.1
     - 10.9.0
-    - 12.1.7
+    - 12.1.6
     compatible:
-    - 12.1.7
-    verified: 12.1.7
+    - 12.1.6
+    verified: 12.1.6
   dependencies:
   - name: com.unity.shadergraph
     version: 11.0.0
@@ -3904,9 +3907,9 @@ m_ResolvedPackages:
     version: 11.0.0
   resolvedDependencies:
   - name: com.unity.shadergraph
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.render-pipelines.core
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -3943,14 +3946,14 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 12.1.7
+    version: 12.1.6
     nextVersion: 
-- packageId: com.unity.shadergraph@12.1.7
+- packageId: com.unity.shadergraph@12.1.6
   testable: 0
   isDirectDependency: 0
-  version: 12.1.7
+  version: 12.1.6
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.shadergraph@12.1.7
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.shadergraph@12.1.6"
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4064,18 +4067,18 @@ m_ResolvedPackages:
     - 10.8.0
     - 10.8.1
     - 10.9.0
-    - 12.1.7
+    - 12.1.6
     compatible:
-    - 12.1.7
-    verified: 12.1.7
+    - 12.1.6
+    verified: 12.1.6
   dependencies:
   - name: com.unity.render-pipelines.core
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.searcher
     version: 4.9.1
   resolvedDependencies:
   - name: com.unity.render-pipelines.core
-    version: 12.1.7
+    version: 12.1.6
   - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
@@ -4107,14 +4110,14 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 12.1.7
+    version: 12.1.6
     nextVersion: 
-- packageId: com.unity.render-pipelines.core@12.1.7
+- packageId: com.unity.render-pipelines.core@12.1.6
   testable: 0
   isDirectDependency: 0
-  version: 12.1.7
+  version: 12.1.6
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.render-pipelines.core@12.1.7
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.render-pipelines.core@12.1.6"
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -4231,10 +4234,10 @@ m_ResolvedPackages:
     - 10.8.0
     - 10.8.1
     - 10.9.0
-    - 12.1.7
+    - 12.1.6
     compatible:
-    - 12.1.7
-    verified: 12.1.7
+    - 12.1.6
+    verified: 12.1.6
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -4272,14 +4275,14 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 12.1.7
+    version: 12.1.6
     nextVersion: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.subsystems@1.0.0"
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -4331,7 +4334,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.modules.uielementsnative@1.0.0"
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -4390,7 +4393,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6"
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4443,12 +4446,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.services.core@1.4.0
+- packageId: com.unity.services.core@1.3.1
   testable: 0
   isDirectDependency: 0
-  version: 1.4.0
+  version: 1.3.1
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.services.core@1.4.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.services.core@1.3.1"
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -4481,9 +4484,11 @@ m_ResolvedPackages:
     - 1.4.0
     - 1.4.1
     compatible:
+    - 1.3.1
+    - 1.3.2
     - 1.4.0
     - 1.4.1
-    verified: 1.4.1
+    verified: 1.3.2
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
@@ -4508,23 +4513,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637871962570000000
+  datePublishedTicks: 637846828270000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 92e281deb97a96f7b32464b6874de73a17c140ff
+    revision: a1cf55a5ba0e2555d508263fa48837ff56c4654a
     path: 
   unityLifecycle:
-    version: 1.4.0
+    version: 1.3.1
     nextVersion: 
 - packageId: com.unity.editorcoroutines@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.editorcoroutines@1.0.0"
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -4582,7 +4587,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.1
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.performance.profile-analyzer@1.1.1"
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -4645,7 +4650,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.0.1"
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -4746,7 +4751,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.1
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.searcher@4.9.1
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.searcher@4.9.1"
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -4812,7 +4817,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.2
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.nuget.newtonsoft-json@3.0.2"
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
@@ -4880,7 +4885,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.3
   source: 1
-  resolvedPath: C:\Users\kyoichi kagiyama\Documents\depthkit-builtin-rp-vfx-template2\Library\PackageCache\com.unity.settings-manager@1.0.3
+  resolvedPath: "C:\\Users\\keinm\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\SandboxVFX\\Library\\PackageCache\\com.unity.settings-manager@1.0.3"
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
