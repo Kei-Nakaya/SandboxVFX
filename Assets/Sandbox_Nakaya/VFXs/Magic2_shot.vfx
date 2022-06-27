@@ -24,46 +24,16 @@ MonoBehaviour:
     - model: {fileID: 8926484042661614868}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614883}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614894}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614897}
       id: 0
       isStickyNote: 0
-    - model: {fileID: 8926484042661614977}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614997}
-      id: 0
-      isStickyNote: 0
     - model: {fileID: 8926484042661614899}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614903}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614905}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614965}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 0}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614907}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615107}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661614864}
-      id: 0
-      isStickyNote: 0
-    - model: {fileID: 8926484042661614866}
       id: 0
       isStickyNote: 0
     - model: {fileID: 8926484042661615058}
@@ -90,10 +60,10 @@ MonoBehaviour:
   - title: "Hit\u3057\u305F\u6642\u306B\u3075\u308F\u3063\u3068\u767A\u5149\u3059\u308B\u30D1\u30FC\u30C4"
     position:
       serializedVersion: 2
-      x: 2526
-      y: -1456
-      width: 784
-      height: 1862
+      x: 2833
+      y: -1458
+      width: 478
+      height: 1756
     contents:
     - model: {fileID: 8926484042661614820}
       id: 0
@@ -1976,7 +1946,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.25
+      m_SerializableObject: 0.1
     m_Space: 2147483647
   m_Property:
     name: A
@@ -2010,7 +1980,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 3
+      m_SerializableObject: 0.5
     m_Space: 2147483647
   m_Property:
     name: B
@@ -4597,7 +4567,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 2858, y: -1394}
+  m_UIPosition: {x: 2861, y: -1396}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -5618,7 +5588,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 1
+      m_SerializableObject: 0.1
     m_Space: 2147483647
   m_Property:
     name: A
@@ -5652,7 +5622,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 3
+      m_SerializableObject: 0.5
     m_Space: 2147483647
   m_Property:
     name: B

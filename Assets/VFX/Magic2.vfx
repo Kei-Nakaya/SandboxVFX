@@ -4387,8 +4387,7 @@ MonoBehaviour:
       m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
   m_Direction: 1
-  m_LinkedSlots:
-  - {fileID: 0}
+  m_LinkedSlots: []
 --- !u!114 &8926484042661614787
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9348,8 +9347,7 @@ MonoBehaviour:
       m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
         PublicKeyToken=b77a5c561934e089
   m_Direction: 1
-  m_LinkedSlots:
-  - {fileID: 0}
+  m_LinkedSlots: []
 --- !u!114 &8926484042661615012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10697,7 +10695,6 @@ MonoBehaviour:
         PublicKeyToken=b77a5c561934e089
   m_Direction: 1
   m_LinkedSlots:
-  - {fileID: 0}
   - {fileID: 8926484042661614980}
 --- !u!114 &8926484042661615071
 MonoBehaviour:
@@ -10732,7 +10729,6 @@ MonoBehaviour:
         PublicKeyToken=b77a5c561934e089
   m_Direction: 1
   m_LinkedSlots:
-  - {fileID: 0}
   - {fileID: 8926484042661614981}
 --- !u!114 &8926484042661615072
 MonoBehaviour:
